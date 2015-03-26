@@ -1,0 +1,4 @@
+admintpls/compiled/*
+!admintpls/compiled/empty
+admintpls/cache/*
+!admintpls/cache/empty

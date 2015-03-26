@@ -1,0 +1,9 @@
+{
+	"whmcs_installs":
+	[
+		{
+			"label": "Development",
+			"path": "/absolute/path/to/whmcs"
+		}
+	]
+}
