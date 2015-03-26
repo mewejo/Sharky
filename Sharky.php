@@ -224,8 +224,8 @@ switch($Option)
 		$CLI->Line();
 		$CLI->Text("Happy to proceed?", array("underline" => true, "colour" => "cyan"));
 		$CLI->Line();
-		$CLI->Text("Do you want to continue [Y/n]?");
-		$CLI->Line();
+		$CLI->Text("Do you want to continue [Y/n]? ");
+
 		if(strtolower($CLI->Input()) !== "y")
 		{
 				$CLI->Line();
