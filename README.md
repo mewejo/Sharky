@@ -1,5 +1,5 @@
 # Sharky
-Generates modules for Shark via PHP CLI
+Generates modules for Shark via PHP CLI. Demo: http://youtu.be/n3s14QADUuk
 
 ## Usage
 1. php Sharky.php
